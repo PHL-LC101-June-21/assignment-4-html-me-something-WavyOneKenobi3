@@ -1,1 +1,46 @@
-/* Write your CSS here! */
+#mainheading { 
+    color: red;
+    margin: 8px;
+    padding: ;
+    text-align: center;
+} 
+
+#mainheading h1 { 
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    
+}
+
+body {
+    margin: 8px;
+    padding: ;
+    display: block;
+    text-align: center;
+    background: #D4F1F4;
+    
+}
+
+#first {
+
+}
+
+/* article {
+    display: block;
+  } */
+
+
+
+.funParagraph{
+    color: green;
+    margin: auto;
+    width: 75%;
+        padding: 5px;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}

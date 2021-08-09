@@ -1,7 +1,7 @@
 #mainHeading { 
     color: red;
     margin: 8px;
-    padding: ;
+    padding: padding: 25px 50px 75px 100px; ;
     text-align: center;
 } 
 
@@ -15,8 +15,8 @@
 }
 
 body {
-    margin: 8px;
-    padding: ;
+    margin: 10px;
+    padding: 5px;
     display: block;
     text-align: center;
     background: #D4F1F4;
@@ -35,9 +35,8 @@ body {
 
 .funParagraph{
     color: green;
-    margin: auto;
-    width: 75%;
-        padding: 5px;
+    margin: 10px;
+    padding: 5px;
 }
 
 img {
